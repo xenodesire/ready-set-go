@@ -1,3 +1,3 @@
-module github.com/xenodesire/go-hands-on
+module github.com/xenodesire/ready-set-go
 
 go 1.26.5
